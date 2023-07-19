@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @sahramelissa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ai
+- 🌱 I’m currently learning ai
+- 💞️ I’m looking to collaborate on https://www.instagram.com/miss_melissi 
+- 📫 How to reach me https://www.instagram.com/miss_melissi 
+
 
 <!---
 sahramelissa/sahramelissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
